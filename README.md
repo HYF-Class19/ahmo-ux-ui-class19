@@ -8,7 +8,7 @@ AHMO is a new web application that offers a variety of features including group 
 - Personal chats
 - Game chats
 - Member search and add feature
-- Games including "Truth or Dare" "Emoji Game" "Never have I Ever" and "Name Word by Last Letter"
+- Games including "Truth or Dare", "Emoji Game", "Never have I Ever", "Name Word by Last Letter" etc.
 
 ## Usage
 
@@ -20,11 +20,12 @@ AHMO is a new web application that offers a variety of features including group 
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
-- Node.js
 - Next.js
+- CSS / MUI
+- TypeScript
+- rtk / rtk query
+- Nest.js
+
 
 ## Contributors
 
