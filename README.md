@@ -33,3 +33,4 @@ AHMO is a new web application that offers a variety of features including group 
 - [**Hayko**](https://github.com/HaykoDevelop)
 - [**Michael**](https://github.com/MichaelMugaiga)
 - [**Oleksii**](https://github.com/podnesTaF)
+- [**Helen**](https://github.com/Helen-HYF)
