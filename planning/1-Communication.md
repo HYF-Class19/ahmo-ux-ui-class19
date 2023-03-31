@@ -45,7 +45,7 @@ The following communication methods will be used throughout the development proc
 - **_Michael_:** _Front and backend Development_;
 
 
-**QA team:** All members of the project will be responsible Responsible for ensuring that the web application meets quality standards and requirements.
+**QA team:** All members of the project will be responsible for ensuring that the web application meets quality standards and requirements.
 
 **Stakeholders:** Our Coach **`Máel`** will be responsible for providing feedback, reviewing project progress, and approving deliverables.
 
