@@ -12,6 +12,8 @@ AHMO is a new web application that offers a variety of features including group 
 - Member search and add feature
 - Games including "Guess a Word", "Truth or Dare", "Words". 
 
+
+
 ## Usage
 
 - Visit the web application at ...
