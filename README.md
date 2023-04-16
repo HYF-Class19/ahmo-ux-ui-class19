@@ -2,13 +2,17 @@
 
 AHMO is a new web application that offers a variety of features including group chats, personal chats, and game chats. Users can search for members and add them to their chosen chat. Additionally, users can play different types of games such as "Guess a Word", "Truth or Dare", "Words".
 
+![alt text](./assets/screenshot-ahmo.png)
+
 ## Features
 
 - Group chats
 - Personal chats
 - Game chats
 - Member search and add feature
-- Games including "Guess a Word", "Truth or Dare", "Words".
+- Games including "Guess a Word", "Truth or Dare", "Words". 
+
+
 
 ## Usage
 
