@@ -40,10 +40,9 @@ The following communication methods will be used throughout the development proc
 
 - **_Azima_:** _Design and Testing_;
 - **_Hellen_:** _Design and presentation_;
-- **_Oleksi_:** _Front and backend Development_;
-- **_Hakyo_:** _Front and backend Development_;
+- **_Hayko_:** _Design and frontend Development_;
+- **_Oleksii_:** _Front and backend Development_;
 - **_Michael_:** _Front and backend Development_;
-
 
 **QA team:** All members of the project will be responsible for ensuring that the web application meets quality standards and requirements.
 
