@@ -32,7 +32,9 @@ AHMO web application aims to offer a variety of features to users, including gro
 **4. Game features**
 
 4.1 "Truth or Dare" game
+
 4.2 "Guess a word" game
+
 4.3 "Name Word by Last Letter" game
 
 **5. Security**
